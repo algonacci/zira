@@ -1,0 +1,2 @@
+# zira
+AI agentku
